@@ -1,0 +1,25 @@
+{
+  "useConfigFiles": false,
+  "plugins": {
+    "@vue/cli-plugin-babel": {},
+    "@vue/cli-plugin-typescript": {
+      "classComponent": false,
+      "useTsWithBabel": true
+    },
+    "@vue/cli-plugin-pwa": {},
+    "@vue/cli-plugin-router": {
+      "historyMode": true
+    },
+    "@vue/cli-plugin-vuex": {},
+    "@vue/cli-plugin-eslint": {
+      "config": "prettier",
+      "lintOn": [
+        "save"
+      ]
+    },
+    "@vue/cli-plugin-unit-jest": {},
+    "vue-cli-plugin-onix-base": {}
+  },
+  "vueVersion": "3",
+  "cssPreprocessor": "node-sass"
+}
