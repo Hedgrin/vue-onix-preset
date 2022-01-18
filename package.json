@@ -1,0 +1,20 @@
+{
+  "name": "@hedgrin/vue-onix-preset",
+  "version": "0.1.0",
+  "description": "Vue CLI 4.x preset for Onix Vue.js projects",
+  "main": "preset.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hedgrin/vue-onix-preset.git"
+  },
+  "author": "Eugen Dzubenko (eugen.dzubenko@onix-systems.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hedgrin/vue-onix-preset/issues"
+  },
+  "homepage": "https://github.com/Hedgrin/vue-onix-preset#readme"
+}

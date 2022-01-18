@@ -20,6 +20,5 @@
     "@vue/cli-plugin-unit-jest": {},
     "vue-cli-plugin-onix-base": {}
   },
-  "vueVersion": "3",
-  "cssPreprocessor": "node-sass"
+  "vueVersion": "3"
 }
