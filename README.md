@@ -14,7 +14,7 @@ This config installs the following into a new project:
 - Router history mode
 - [ESLint](https://github.com/eslint/eslint) + [Prettier](https://github.com/prettier/prettier)
 - [Jest](https://github.com/facebook/jest/)
-- [Onix Vue CLI plugin](https://github.com/Hedgrin/vue-cli-plugin-onix-base)
+- [Onix Vue CLI plugin](https://github.com/Onix-Systems/vue-cli-plugin-onix-base)
 
 ## Usage
 
@@ -27,7 +27,7 @@ npm i -g @vue/cli
 Create a new project:
 
 ```bash
-vue create --preset Hedgrin/vue-onix-preset <project-name>
+vue create --preset Onix-Systems/vue-onix-preset <project-name>
 ```
 
 ## Documentation
