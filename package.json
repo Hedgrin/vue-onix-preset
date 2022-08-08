@@ -1,6 +1,6 @@
 {
   "name": "@hedgrin/vue-onix-preset",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Vue CLI 4.x preset for Onix Vue.js projects",
   "main": "preset.json",
   "scripts": {
